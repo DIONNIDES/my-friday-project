@@ -1,0 +1,4 @@
+.headerWrapper {
+    display:grid;
+    grid-template-columns: 1fr 100px 100px 60px;
+}
